@@ -1,0 +1,26 @@
+.my-link-style:hover{
+    text-decoration: underline;
+    color: azure;
+   
+}
+.hr-style{
+    {border-style: dotted;}
+}
+#feedback{
+    background:#0d0442;
+    padding: 7% 10%;
+}
+.hr-style{
+    border: 5px dotted white ;
+}
+.carousel-item{
+    padding: 5% 15%;
+    text-align: center;
+    font-style: italic;
+
+}
+.feedback-image{
+    width: 120px;
+    height: auto;
+
+}
